@@ -70,4 +70,3 @@ print(f"GCD({numerator}, {denominator}) = {g}")
 numerator //= g
 denominator //= g
 
-sivajothi@sivajothi-HP-Laptop-15s-fq5xxx:~/Desktop$ 
