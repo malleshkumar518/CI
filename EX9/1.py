@@ -102,5 +102,3 @@ while True:
         print("\nAnswer =", result)
 
     print("\n=====================================\n")
-
-sivajothi@sivajothi-HP-Laptop-15s-fq5xxx:~/Desktop$ 
